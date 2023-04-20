@@ -1,21 +1,19 @@
 class Solution {
     public int climbStairs(int n) {
-        int[] memo = new int[n + 1]; // memoization array to store previously calculated steps
-        return climbStairsHelper(n, memo); // call the helper method with memoization
+        int[] temp = new int[n + 1]; 
+        return CountSteps(n, temp);
     }
-    
-    private int climbStairsHelper(int n, int[] memo) {
+    public int CountSteps(int n, int[] temp) {
         if (n <= 1) {
-            return 1; // base case: return 1 for n <= 1
+            return 1; 
         }
         
-        if (memo[n] != 0) {
-            return memo[n]; // return the memoized result if it exists
-        }
-        
-        int step1 = climbStairsHelper(n - 1, memo); // calculate the number of ways for n-1
-        int step2 = climbStairsHelper(n - 2, memo); // calculate the number of ways for n-2
-        memo[n] = step1 + step2; // store the result in the memoization array
-        return memo[n]; // return the result
+        if (temp[n] != 0) {
+            return temp[n]; 
+        }    
+        int step1 = CountSteps(n - 1, temp); 
+        int step2 = CountSteps(n - 2, temp); 
+        temp[n] = step1 + step2;
+        return temp[n];
     }
 }

@@ -15,11 +15,12 @@
  */
 class Solution {
     public int minDepth(TreeNode root) {
-        if(root == null) return 0;
-        int left_subtree = minDepth(root.left);
-        int right_subtree = minDepth(root.right);
-        if(left_subtree ==0 || right_subtree == 0)
-        return left_subtree+right_subtree +1;
-        return 1+ Math.min(left_subtree , right_subtree);
+       if(root == null) return 0;
+       int left = minDepth(root.left);
+       int right = minDepth(root.right);
+       if(left == 0 || right == 0)
+       return 1+left+right;
+
+       return 1 + Math.min(left, right);
     }
 }

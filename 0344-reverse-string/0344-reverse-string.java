@@ -1,20 +1,13 @@
 class Solution {
-    public void swap(char[] s, int start, int end) {
-        char temp = s[start];
-        s[start] = s[end];
-        s[end] = temp;
-    }
-    
-    public void rev(char[] s, int i, int n) {
-        if (i >= n / 2) {
-            return;
-        }
-        swap(s, i, n - i - 1);
-        rev(s, i + 1, n);
-    }
-    
     public void reverseString(char[] s) {
-        int n = s.length;
-        rev(s, 0, n);
+       int i = 0;
+       int j = s.length-1; 
+       while(i<=j){
+        char t = s[i];
+        s[i] = s[j];
+        s[j] = t;
+        i++;
+        j--;
+       }
     }
 }

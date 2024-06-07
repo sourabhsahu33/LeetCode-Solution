@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 # Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0876-hand-of-straights](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1044-find-common-characters) |
 # Hash Table
@@ -38,3 +39,11 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0392-is-subsequence) |
+# Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+# Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0054-spiral-matrix) |

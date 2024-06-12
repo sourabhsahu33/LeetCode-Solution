@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 # Dynamic Programming
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0392-is-subsequence) |
 # Matrix
 |  |
@@ -60,3 +61,11 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1217-relative-sort-array) |
+# Math
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0357-count-numbers-with-unique-digits) |
+# Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0357-count-numbers-with-unique-digits) |

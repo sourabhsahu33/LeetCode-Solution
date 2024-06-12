@@ -69,3 +69,15 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0357-count-numbers-with-unique-digits) |
+# Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0450-delete-node-in-a-bst) |
+# Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0450-delete-node-in-a-bst) |
+# Binary Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0450-delete-node-in-a-bst) |

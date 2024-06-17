@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0125-valid-palindrome](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0392-is-subsequence) |
+| [0633-sum-of-square-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Dynamic Programming
 |  |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0357-count-numbers-with-unique-digits) |
+| [0633-sum-of-square-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 # Backtracking
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0098-validate-binary-search-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0450-delete-node-in-a-bst) |
+| [0633-sum-of-square-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 # Binary Tree
 |  |
 | ------- |

@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 # Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0450-delete-node-in-a-bst) |
 # Binary Search Tree
 |  |
@@ -86,8 +87,17 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 # Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0100-same-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0450-delete-node-in-a-bst) |
 # Heap (Priority Queue)
 |  |
 | ------- |
 | [0502-ipo](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0502-ipo) |
+# Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0100-same-tree) |
+# Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0100-same-tree) |

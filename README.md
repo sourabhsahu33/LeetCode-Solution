@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 # Hash Table
 |  |
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1044-find-common-characters) |
 | [1217-relative-sort-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1217-relative-sort-array) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 # Greedy
 |  |
 | ------- |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0357-count-numbers-with-unique-digits) |
 | [0633-sum-of-square-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
 # Backtracking
 |  |
 | ------- |
@@ -133,3 +136,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+# Sliding Window
+|  |
+| ------- |
+| [1370-count-number-of-nice-subarrays](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |

@@ -140,3 +140,11 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1370-count-number-of-nice-subarrays) |
+# Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0155-min-stack) |
+# Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0155-min-stack) |

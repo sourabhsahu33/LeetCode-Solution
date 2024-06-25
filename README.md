@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0450-delete-node-in-a-bst](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0450-delete-node-in-a-bst](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0633-sum-of-square-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0450-delete-node-in-a-bst](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0450-delete-node-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -130,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Breadth-First Search
 |  |
 | ------- |

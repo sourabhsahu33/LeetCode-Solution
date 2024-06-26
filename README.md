@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0054-spiral-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0054-spiral-matrix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0502-ipo](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0502-ipo) |
+| [0777-toeplitz-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0777-toeplitz-matrix) |
 | [0876-hand-of-straights](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0876-hand-of-straights) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1044-find-common-characters](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1044-find-common-characters) |
@@ -60,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0054-spiral-matrix) |
+| [0777-toeplitz-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0777-toeplitz-matrix) |
 # Simulation
 |  |
 | ------- |

@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0502-ipo](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0876-hand-of-straights) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Sorting
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0538-convert-bst-to-greater-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0538-convert-bst-to-greater-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0633-sum-of-square-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0633-sum-of-square-numbers) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
@@ -118,6 +121,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0538-convert-bst-to-greater-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1285-balance-a-binary-search-tree) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -134,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0538-convert-bst-to-greater-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0543-diameter-of-binary-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1285-balance-a-binary-search-tree) |
 # Breadth-First Search
 |  |
 | ------- |
@@ -144,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1285-balance-a-binary-search-tree) |
 # Sliding Window
 |  |
 | ------- |

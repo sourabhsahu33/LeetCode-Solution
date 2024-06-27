@@ -164,3 +164,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0155-min-stack) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1916-find-center-of-star-graph) |

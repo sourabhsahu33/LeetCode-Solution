@@ -168,3 +168,14 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0330-patching-array) |
+## Greedy
+|  |
+| ------- |
+| [0330-patching-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0330-patching-array) |
+<!---LeetCode Topics End-->

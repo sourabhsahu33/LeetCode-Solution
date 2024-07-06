@@ -239,4 +239,12 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2645-pass-the-pillow) |
+## Simulation
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->

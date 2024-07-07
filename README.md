@@ -242,9 +242,11 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2645-pass-the-pillow) |
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->

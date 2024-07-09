@@ -178,6 +178,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1293-three-consecutive-odds) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1803-average-waiting-time](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Greedy
 |  |
@@ -250,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2645-pass-the-pillow) |
 ## Recursion

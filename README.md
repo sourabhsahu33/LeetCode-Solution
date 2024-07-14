@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0330-patching-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -183,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0330-patching-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0330-patching-array) |
 ## Hash Table
 |  |
@@ -228,6 +230,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
 |  |

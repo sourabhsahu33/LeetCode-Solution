@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0045-jump-game-ii) |
+| [0274-h-index](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0274-h-index) |
 | [0330-patching-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -265,4 +267,8 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

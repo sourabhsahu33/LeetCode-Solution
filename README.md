@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0135-candy) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0149-max-points-on-a-line](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |

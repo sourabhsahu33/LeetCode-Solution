@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0045-jump-game-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0135-candy) |
 | [0149-max-points-on-a-line](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -195,6 +196,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0149-max-points-on-a-line](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -293,4 +295,8 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->

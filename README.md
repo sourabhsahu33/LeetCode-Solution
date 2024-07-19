@@ -186,6 +186,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -303,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Stack
 |  |
 | ------- |

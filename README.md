@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1293-three-consecutive-odds) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
+| [1333-sort-the-jumbled-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1333-sort-the-jumbled-numbers) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |

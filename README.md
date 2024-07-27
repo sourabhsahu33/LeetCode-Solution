@@ -219,6 +219,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -267,6 +268,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Tree
@@ -337,6 +339,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
 ## Graph

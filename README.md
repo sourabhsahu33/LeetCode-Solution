@@ -271,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0005-longest-palindromic-substring](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Tree
 |  |
 | ------- |
@@ -336,11 +337,13 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## String
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
 ## Graph
 |  |

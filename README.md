@@ -207,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0001-two-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0202-happy-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
@@ -353,4 +354,16 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

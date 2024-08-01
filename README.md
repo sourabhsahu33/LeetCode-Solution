@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Greedy
 |  |
@@ -346,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
+| [2727-number-of-senior-citizens](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
 ## Graph
 |  |
 | ------- |

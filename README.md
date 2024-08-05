@@ -193,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -262,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
@@ -346,6 +349,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0005-longest-palindromic-substring](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
+| [2163-kth-distinct-string-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
 ## Graph

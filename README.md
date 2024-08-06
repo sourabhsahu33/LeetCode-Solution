@@ -187,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0330-patching-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [1293-three-consecutive-odds](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1333-sort-the-jumbled-numbers) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0202-happy-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -344,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0496-next-greater-element-i](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## String
@@ -375,4 +378,8 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0146-lru-cache) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

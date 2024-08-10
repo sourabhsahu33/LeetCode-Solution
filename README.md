@@ -286,14 +286,17 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0199-binary-tree-right-side-view](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 ## Math
 |  |
 | ------- |
@@ -385,4 +388,8 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->

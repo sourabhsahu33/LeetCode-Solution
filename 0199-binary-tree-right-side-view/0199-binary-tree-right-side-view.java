@@ -14,17 +14,22 @@
  * }
  */
 class Solution {
-    public void right(TreeNode root, List<Integer> list, int curr){
-        if(root == null) return; 
-        if(curr == list.size()){
-            list.add(root.val);
-          }
-        right(root.right, list, curr+1);
-        right(root.left, list, curr+1);
-    }
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        right(root, ans, 0);
-        return ans;
+        List<Integer> list = new ArrayList<>();
+        if(root == null) return list;
+        Queue<TreeNode> qu = new LinkedList<>();
+        qu.add(root);
+        while(!qu.isEmpty()){
+            int size = qu.size();
+            while(size-- > 0){
+                TreeNode curr = qu.poll();
+                if(size == 0){
+                    list.add(curr.val);
+                }
+                if(curr.left != null) qu.offer(curr.left);
+                if(curr.right != null) qu.offer(curr.right);
+            }
+        }
+        return list;
     }
 }

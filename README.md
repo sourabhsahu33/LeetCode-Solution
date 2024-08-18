@@ -174,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0045-jump-game-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
@@ -236,6 +237,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |

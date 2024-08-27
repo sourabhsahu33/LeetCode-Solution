@@ -304,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0149-max-points-on-a-line](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0202-happy-number) |

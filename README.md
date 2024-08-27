@@ -212,6 +212,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
@@ -340,6 +341,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0273-integer-to-english-words](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
 | [0664-strange-printer](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0664-strange-printer) |

@@ -203,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Greedy
 |  |
 | ------- |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -392,6 +394,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0146-lru-cache) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |

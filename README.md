@@ -311,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0007-reverse-integer) |
 | [0149-max-points-on-a-line](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0273-integer-to-english-words](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -393,6 +395,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0146-lru-cache](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design

@@ -387,6 +387,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
 | [0647-palindromic-substrings](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0664-strange-printer) |
@@ -436,4 +437,16 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0476-number-complement](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->

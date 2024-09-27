@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1293-three-consecutive-odds](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1293-three-consecutive-odds) |
 | [1333-sort-the-jumbled-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1333-sort-the-jumbled-numbers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
@@ -374,6 +375,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0724-find-pivot-index) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix

@@ -305,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0045-jump-game-ii) |
+| [0062-unique-paths](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
@@ -331,6 +332,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0007-reverse-integer) |
+| [0062-unique-paths](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0202-happy-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0202-happy-number) |
@@ -464,4 +466,8 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

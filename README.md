@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0273-integer-to-english-words](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
@@ -423,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0002-add-two-numbers) |
+| [0025-reverse-nodes-in-k-group](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0025-reverse-nodes-in-k-group) |
 | [0142-linked-list-cycle-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0146-lru-cache) |
 | [0725-split-linked-list-in-parts](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0725-split-linked-list-in-parts) |

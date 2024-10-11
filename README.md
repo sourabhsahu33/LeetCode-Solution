@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0209-minimum-size-subarray-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0274-h-index) |
 | [0330-patching-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting Sort
 |  |
@@ -376,6 +379,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0239-sliding-window-maximum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -475,4 +479,8 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0062-unique-paths) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->

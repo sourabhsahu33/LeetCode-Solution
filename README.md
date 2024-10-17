@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0229-majority-element-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0330-patching-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0647-palindromic-substrings](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -261,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
@@ -456,6 +459,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1435-xor-queries-of-a-subarray) |
 ## Rolling Hash

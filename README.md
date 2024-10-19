@@ -177,6 +177,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0033-search-in-rotated-sorted-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0045-jump-game-ii) |
+| [0056-merge-intervals](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |

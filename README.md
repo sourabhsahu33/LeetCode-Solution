@@ -256,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0202-happy-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0443-string-compression](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Binary Search
@@ -416,6 +417,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0205-isomorphic-strings](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0214-shortest-palindrome) |
 | [0273-integer-to-english-words](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0273-integer-to-english-words) |
+| [0443-string-compression](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |

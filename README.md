@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0443-string-compression](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -360,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [1803-average-waiting-time](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2645-pass-the-pillow](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2645-pass-the-pillow) |
 ## Recursion
 |  |
@@ -423,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2232-adding-spaces-to-a-string](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
 ## Graph

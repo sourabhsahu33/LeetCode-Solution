@@ -213,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [2232-adding-spaces-to-a-string](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2232-adding-spaces-to-a-string) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2727-number-of-senior-citizens](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2727-number-of-senior-citizens) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0647-palindromic-substrings](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2232-adding-spaces-to-a-string) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Binary Search
 |  |
 | ------- |
@@ -287,6 +289,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -298,6 +301,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0215-kth-largest-element-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0347-top-k-frequent-elements) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -404,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0073-set-matrix-zeroes](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0073-set-matrix-zeroes) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [2472-build-a-matrix-with-conditions](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2472-build-a-matrix-with-conditions) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
 ## Stack
 |  |
@@ -462,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Backtracking
 |  |
 | ------- |
@@ -497,4 +503,8 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+## Union Find
+|  |
+| ------- |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 <!---LeetCode Topics End-->

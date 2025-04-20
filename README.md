@@ -331,17 +331,20 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0386-lexicographical-numbers](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0386-lexicographical-numbers) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 ## Math
@@ -468,6 +471,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 ## Backtracking

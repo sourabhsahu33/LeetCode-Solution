@@ -435,6 +435,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0647-palindromic-substrings](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0647-palindromic-substrings) |
 | [0664-strange-printer](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2232-adding-spaces-to-a-string) |

@@ -208,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1803-average-waiting-time](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1803-average-waiting-time) |
+| [1813-maximum-erasure-value](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1813-maximum-erasure-value) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0726-number-of-atoms](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0726-number-of-atoms) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1798-max-number-of-k-sum-pairs) |
+| [1813-maximum-erasure-value](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1813-maximum-erasure-value) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2502-sort-the-people](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/2502-sort-the-people) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/3227-find-missing-and-repeated-values) |
@@ -403,6 +405,7 @@ Collection of LeetCode questions to ace the coding interview for MNCs ! - Create
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/0239-sliding-window-maximum) |
+| [1813-maximum-erasure-value](https://github.com/Sourabhsahu33/LeetCode-Solution/tree/master/1813-maximum-erasure-value) |
 ## Prefix Sum
 |  |
 | ------- |
